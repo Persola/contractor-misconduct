@@ -1,0 +1,5 @@
+**/.DS_Store
+.ipynb_checkpoints/*
+
+data/lobbying_disclosures/**
+data/fec_all_candidates_fin_info/**
