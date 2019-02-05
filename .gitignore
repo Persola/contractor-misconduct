@@ -1,5 +1,5 @@
 **/.DS_Store
-notebooks/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
 
 data/lobbying_disclosures/**
 data/fec_all_candidates_fin_info/**
