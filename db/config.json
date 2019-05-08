@@ -1,8 +1,0 @@
-{
-  "database": "contractor_misconduct",
-  "schema": "public",
-  "user": "user_name",
-  "host": "host_url",
-  "port": "port_num",
-  "passw": "user_password"
-}

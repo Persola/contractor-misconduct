@@ -24,4 +24,6 @@ included)
 Run:
 1. `misconduct_clean.ipynb`
 2. `add_indicators.ipynb`
-3. anything from `analyze/` or `predict/`
+3. `disclosures_extract_clean.ipynb`
+4. `add_lobbyist_features_to_misconduct.ipynb`
+5. what you want from `analyze/` or `predict/`
