@@ -1,4 +1,6 @@
-# Project McNulty
+# Contractor Misconduct
+
+### Blogpost on this project: https://medium.com/@lukepersola/are-government-contractors-that-use-lobbyists-better-at-avoiding-penalties-215ec8e2c2f5
 
 I worked on this project at [Metis](https://www.thisismetis.com/).
 
